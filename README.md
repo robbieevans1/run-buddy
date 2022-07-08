@@ -12,7 +12,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://robcabobb.github.io/run-buddy/
+https://robbieevans1.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Robbie Evans
